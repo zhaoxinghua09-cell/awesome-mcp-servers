@@ -581,3 +581,4 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[oatpp-mcp](https://github.com/oatpp/oatpp-mcp)** - Anthropic's Model Context Protocol implementation for Oat++
 - **[centralmind/gateway](https://github.com/centralmind/gateway)** - CLI that generates MCP tools based on your Database schema and data using AI and host as REST, MCP or MCP-SSE server
 - **[ToolHive](https://github.com/Stacklok/toolhive)** - A lightweight utility designed to simplify the deployment and management of MCP servers, ensuring ease of use, consistency, and security through containerization
+- [SynomosAI Governance MCP](https://github.com/Medxpert-org/ubic-governance-mcp) - AI governance assessment tools: A3 scorecard, ISO/IEC 42001 evidence templates, compliance checklist, gov_scan text screening. `python` `local` `ai-governance`
